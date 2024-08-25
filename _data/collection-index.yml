@@ -913,3 +913,13 @@
   contact: https://github.com/deep-space-cartel/devcontainers-features/issues
   repository: https://github.com/deep-space-cartel/devcontainers-features
   ociReference: ghcr.io/deep-space-cartel/devcontainers-features
+- name: Devcontainer features by lx-0
+  maintainer: lx-0
+  contact: https://github.com/lx-0/devcontainer-features/issues
+  repository: https://github.com/lx-0/devcontainer-features
+  ociReference: ghcr.io/lx-0/devcontainer-features
+- name: Devcontainer templates by lx-0
+  maintainer: lx-0
+  contact: https://github.com/lx-0/devcontainer-templates/issues
+  repository: https://github.com/lx-0/devcontainer-templates
+  ociReference: ghcr.io/lx-0/devcontainer-templates
